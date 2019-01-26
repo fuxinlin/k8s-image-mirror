@@ -1,0 +1,12 @@
+*.iml
+*.settings
+.idea
+**/target
+**/sql
+**/log
+*.jar
+*.log
+**/logs
+*.DS_Store
+.gitattributes
+build.md
